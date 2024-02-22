@@ -1,7 +1,7 @@
 <?php
 
 class Rutas {
-    protected $urlBase = "http://localhost/trabajo1";
+    protected $urlBase = "http://localhost/trabajo";
 
     public function __construct() {
     }
